@@ -20,4 +20,4 @@ S použitím GitHub nástrojov vytvoríte rovnaký program ako v zadaní 1. Zada
 1. Chýbajú makrá registrov MCU pre prístup ku GPIOA-3 (tlačidlo) a GPIOA-4 (LED)
 2. Chýba konfigurácia GPIOA-3 (tlačidlo) a GPIOA-4 (LED)
 3. LED má blikať rýchlo pri stlačenom tlačidle, inak pomaly
-4. Chýba [licenčný súbor BSD-3](https://opensource.org/license/bsd-3-clause/) a nastavenie .gitignore
+4. Chýba [licenčný súbor BSD-3](https://opensource.org/license/bsd-3-clause/) a nastavenie .gitignore na ignorovanie `build` a `.settings` priečinkov.
