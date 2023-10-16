@@ -3,7 +3,7 @@
 2. meno2
 3. meno3
 
-# Bonusová úloha VRS
+# Bonusová úloha VRS (4b za 30min)
 S použitím GitHub nástrojov vytvoríte rovnaký program ako v zadaní 1. Zadanie pozostáva zo 4 častí, za každú môžete dostať 1 bod pre tím, ktoré si môžete ľubovoľne prerozdeliť vrámci tímu.
 
 1. Vytvoríte si vlastnú Fork repozitára `https://github.com/stecf/bonus_8`
